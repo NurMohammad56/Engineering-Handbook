@@ -25,6 +25,7 @@ Engineering-Handbook/
 ### 🧠 System Design
 
 - 📄 System Design Interview - Full.pdf
+- 📄 Object-Oriented Design Interview - Full.pdf
 
 ### 🤖 AI & ML System Design
 
